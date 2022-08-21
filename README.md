@@ -1,2 +1,2 @@
-# docker-php-template
-Docker template for basic php application
+# KAS MASJID
+Kas masjid web app built with PHP native and mysql
